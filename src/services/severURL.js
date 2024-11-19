@@ -1,2 +1,2 @@
-const SERVERURL = "http://https://car-cred.onrender.com"
+const SERVERURL = "https://https://car-cred.onrender.com"
 export default SERVERURL
